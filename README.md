@@ -1,2 +1,2 @@
 # StudentAverageCalculator
-This program reads in mutilple students grades from a file and form that calculates and displays their finals averages.
+This program reads in multiple students grades from a file and from that calculates and displays their finals averages.
